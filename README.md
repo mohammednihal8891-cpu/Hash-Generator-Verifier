@@ -30,3 +30,10 @@ A simple Python-based cybersecurity tool that generates and verifies SHA-256 has
 
 ```bash
 python3 hash_tool.py
+
+
+## 👨‍💻 Author
+
+**Mohammed Nihal**
+
+Cybersecurity Student
